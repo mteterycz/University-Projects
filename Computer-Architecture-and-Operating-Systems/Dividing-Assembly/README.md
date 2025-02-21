@@ -12,5 +12,7 @@ The function performs integer division with remainder. The function treats the d
 # Testing
 
 `gcc -c -Wall -Wextra -std=c17 -O2 -o mdiv_example.o mdiv_example.c`
+
 `gcc -z noexecstack -o mdiv_example mdiv_example.o mdiv.o`
+
 `./mdiv_example`
