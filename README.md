@@ -15,3 +15,9 @@ A collection of projects from Computer Science studies at the Faculty of Mathema
 - Alghoritms and Data Structures
 - Python Course
 - Data Bases
+
+### Semester 4
+- Introdution to Machine Learning
+- Web Applications
+- Software Engineering
+- Network Design and Administration 
