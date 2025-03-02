@@ -1,0 +1,3 @@
+# Python Course
+
+This Python course covered fundamental and advanced programming concepts, including data types, functions, object-oriented programming, and functional programming. It also introduced practical topics such as file processing, debugging, testing, and teamwork tools, along with data analysis using NumPy and pandas, data visualization, and web scraping. Additionally, the course explored script parameterization, regular expressions, and key Python libraries.
